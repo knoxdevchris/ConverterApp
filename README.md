@@ -5,7 +5,7 @@ This project is a Flutter application developed as part of my class coursework. 
 ## Project Overview
 
 - **Framework:** Flutter
-- **Purpose:** Educational project from my class
+- **Purpose:** Educational project from my class 
 - **Features:** Converts between different units (details may vary based on implementation)
 
 ## Getting Started
